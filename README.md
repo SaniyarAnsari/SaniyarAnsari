@@ -21,7 +21,7 @@ I enjoy turning ideas into useful web experiences—whether that means creating 
 
 Have an idea, a project, or just want to talk about web development?
 
-[Email me](mailto:saniyar.ansari2010@gmail.com) · [Telegram](https://t.me/SaniyarAnsari) · [WhatsApp](https://wa.me/989202900937)
+[WhatsApp](https://wa.me/989202900937)
 
 ---
 
@@ -30,6 +30,7 @@ Have an idea, a project, or just want to talk about web development?
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saniyar.ansari2010@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SaniyarAnsari)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989202900937)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saniyar-ansari)
 
 ---
 
